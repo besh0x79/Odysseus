@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.ibb.co/S4j4dHh9/photo-5879531012860088241-y.jpg" alt="Argus Logo" width="200">
+  <img src="https://i.ibb.co/S4j4dHh9/photo-5879531012860088241-y.jpg" alt="Argus Logo" width="400">
 </p>
 
-# Argus-SSTI
+
 # Argus-SSTI
 
 A lightweight SSTI (Server-Side Template Injection) engine identifier written in Python.
